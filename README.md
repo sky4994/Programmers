@@ -1,4 +1,4 @@
-# 프로그래머스 문제
+# 프로그래머스 문제(python3만)
 
 [프로그래머스 링크](https://programmers.co.kr/learn/challenges?tab=all_challenges/)
 
