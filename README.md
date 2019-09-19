@@ -8,7 +8,7 @@
 
 
 ### 해시
-|Level|title|level_type|Link|answer|
+|Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-1|해시|완주하지 못한 선수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/42576?language=python3) |
 |level-2|해시|전화번호 목록|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/42577?language=python3) |
@@ -17,7 +17,7 @@
 
 
 ### 스택/큐
-|Level|title|level_type|Link|answer|
+|Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-2|스택_큐|탑|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/42588?language=python3) |
 |level-2|스택_큐|프린터|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/42587?language=python3) |
@@ -29,7 +29,7 @@
 
 
 ### 힙(Heep)
-|Level|title|level_type|Link|answer|
+|Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-2|힙(Heap)|더 맵게|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/42626?language=python3) |
 |level-2|힙(Heap)|라면공장|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/42629?language=python3) |
@@ -39,7 +39,7 @@
 
 
 ### 정렬
-|Level|title|level_type|Link|answer|
+|Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-1|정렬|K번째수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/42748?language=python3) |
 |level-2|정렬|가장 큰 수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/42746?language=python3) |
@@ -49,7 +49,7 @@
 
 
 ### 완전탐색
-|Level|title|level_type|Link|answer|
+|Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-1|완전탐색|모의고사|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/42840?language=python3) |
 |level-2|완전탐색|숫자 야구|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/42841?language=python3) |
@@ -59,7 +59,7 @@
 
 
 ### 탐욕법(Greedy)
-|Level|title|level_type|Link|answer|
+|Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-1|탐욕법(Greedy)|체육복|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/42862?language=python3) |
 |level-2|탐욕법(Greedy)|조이스틱|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/42860?language=python3) |
@@ -72,14 +72,201 @@
 
 
 
+### 동적계획법(Dynamic Programming)
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-3|동적계획법(Dynamic Programming)|N으로 표현|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/42895?language=python3) |
+|level-3|동적계획법(Dynamic Programming)|타일 장식물|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/43104?language=python3) |
+|level-3|동적계획법(Dynamic Programming)|정수 삼각형|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/43105?language=python3) |
+|level-3|동적계획법(Dynamic Programming)|정수 삼각형|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/43105?language=python3) |
+|level-3|동적계획법(Dynamic Programming)|등굣길|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/42898?language=python3) |
+|level-4|동적계획법(Dynamic Programming)|카드 게임|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/42896?language=python3) |
+|level-4|동적계획법(Dynamic Programming)|도둑질|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/42897?language=python3) |
+|level-4|동적계획법(Dynamic Programming)|서울에서 경산까지|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/42899?language=python3) |
+
+
+
+### 깊이/너비 우선 탐색(DFS/BFS)
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-2|깊이_너비 우선 탐색(DFS_BFS)|타겟 넘버|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/43165?language=python3) |
+|level-3|깊이_너비 우선 탐색(DFS_BFS)|네트워크|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/43162?language=python3) |
+|level-3|깊이_너비 우선 탐색(DFS_BFS)|여행경로|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/43164?language=python3) |
+
+
+
+### 이분탐색
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-3|이분탐색|예산|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/43237?language=python3) |
+|level-3|이분탐색|입국심사|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/43238?language=python3) |
+|level-4|이분탐색|징검다리|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/43236?language=python3) |
+
+
+
+
+### 그래프
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-3|그래프|가장 먼 노드|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/49189?language=python3) |
+|level-3|그래프|순위|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/49191?language=python3) |
+|level-5|그래프|방의 개수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=4/learn/courses/30/lessons/49190?language=python3) |
+
+
+
+------------------------------------------------------------------------------------
+다른 연습문제
+------------------------------------------------------------------------------------
+
+### 연습문제
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-1|연습문제|2016년|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/12901?language=python3) |
+|level-1|연습문제|가운데 글자 가져오기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/12903?language=python3) |
+|level-1|연습문제|같은 숫자는 싫어|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=4/learn/courses/30/lessons/12906?language=python3) |
+|level-1|연습문제|나누어 떨어지는 숫자 배열|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=4/learn/courses/30/lessons/12910?language=python3) |
+|level-1|연습문제|두 정수 사이의 합|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=4/learn/courses/30/lessons/12912?language=python3) |
+|level-1|연습문제|문자열 내 마음대로 정렬하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12915?language=python3) |
+|level-1|연습문제|문자열 내 p와 y의 개수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12916?language=python3) |
+|level-1|연습문제|문자열 내림차순으로 배치하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12917?language=python3) |
+|level-1|연습문제|문자열 다루기 기본|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12918?language=python3) |
+|level-1|연습문제|서울에서 김서방 찾기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12919?language=python3) |
+|level-1|연습문제|소수 찾기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12921?language=python3) |
+|level-1|연습문제|수박수박수박수박수박수?|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12922?language=python3) |
+|level-1|연습문제|문자열을 정수로 바꾸기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12925?language=python3) |
+|level-1|연습문제|시저 암호|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12926?language=python3) |
+|level-1|연습문제|약수의 합|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12928?language=python3) |
+|level-1|연습문제|이상한 문자 만들기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12930?language=python3) |
+|level-1|연습문제|자릿수 더하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12931?language=python3) |
+|level-1|연습문제|자연수 뒤집어 배열로 만들기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12932?language=python3) |
+|level-1|연습문제|정수 내림차순으로 배치하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12933?language=python3) |
+|level-1|연습문제|정수 제곱근 판별|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12934?language=python3) |
+|level-1|연습문제|제일 작은 수 제거하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12935?language=python3) |
+|level-1|연습문제|짝수와 홀수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12937?language=python3) |
+|level-1|연습문제|최대공약수와 최소공배수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12940?language=python3) |
+|level-1|연습문제|콜라츠 추측|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12943?language=python3) |
+|level-1|연습문제|평균 구하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12944?language=python3) |
+|level-1|연습문제|하샤드 수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12947?language=python3) |
+|level-1|연습문제|핸드폰 번호 가리기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12948?language=python3) |
+|level-1|연습문제|행렬의 덧셈|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12950?language=python3) |
+|level-1|연습문제|x만큼 간격이 있는 n개의 숫자|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12954?language=python3) |
+|level-1|연습문제|직사각형 별찍기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12969?language=python3) |
+|level-2|연습문제|124 나라의 숫자|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/12899?language=python3) |
+|level-2|연습문제|가장 큰 정사각형 찾기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=4/learn/courses/30/lessons/12905?language=python3) |
+|level-2|연습문제|올바른 괄호|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=4/learn/courses/30/lessons/12909?language=python3) |
+|level-2|연습문제|다음 큰 숫자|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=4/learn/courses/30/lessons/12911?language=python3) |
+|level-2|연습문제|땅따먹기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=4/learn/courses/30/lessons/12913?language=python3) |
+|level-2|연습문제|숫자의 표현|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12924?language=python3) |
+|level-2|연습문제|최댓값과 최솟값|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12939?language=python3) |
+|level-2|연습문제|최솟값 만들기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12941?language=python3) |
+|level-2|연습문제|피보나치 수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12945?language=python3) |
+|level-2|연습문제|행렬의 곱셈|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12949?language=python3) |
+|level-2|연습문제|JadenCase 문자열 만들기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12951?language=python3) |
+|level-2|연습문제|N개의 최소공배수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12953?language=python3) |
+|level-3|연습문제|2 x n 타일링|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/12900?language=python3) |
+|level-3|연습문제|가장 긴 팰린드롬|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=3/learn/courses/30/lessons/12904?language=python3) |
+|level-3|연습문제|거스름돈|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=4/learn/courses/30/lessons/12907?language=python3) |
+|level-3|연습문제|멀리 뛰기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12914?language=python3) |
+|level-3|연습문제|야근 지수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12927?language=python3) |
+|level-3|연습문제|줄 서는 방법|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12936?language=python3) |
+|level-3|연습문제|최고의 집합|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12938?language=python3) |
+|level-3|연습문제|하노이의 탑|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12946?language=python3) |
+|level-3|연습문제|N-Queen|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12952?language=python3) |
+|level-4|연습문제|3 x n 타일링|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=2/learn/courses/30/lessons/12902?language=python3) |
+|level-4|연습문제|선입 선출 스케줄링|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12920?language=python3) |
+|level-4|연습문제|숫자 블록|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/12923?language=python3) |
+|level-4|연습문제|올바른 괄호의 갯수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12929?language=python3) |
+|level-4|연습문제|최적의 행렬 곱셈|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/12942?language=python3) |
+
+
+
+------------------------------------------------------------------------------------
+문제 모음
+------------------------------------------------------------------------------------
+
+### (2017년)KAKAO BLIND RECRUITMENT
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 추석 트래픽|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/17676?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 뉴스 클러스터링|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17677?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 셔틀버스|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17678?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 프렌즈4블록|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17679?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 캐시|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17680?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 비밀지도|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17681?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 다트 게임|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17682?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 방금그곡|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17683?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 압축|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17684?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 자동완성|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17685?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 파일명 정렬|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/17686?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] n진수 게임|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=10/learn/courses/30/lessons/17687?language=python3) |
+
+
+
+
+### (2018년)KAKAO BLIND RECRUITMENT
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|오픈채팅방|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/42888?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|실패율|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/42889?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|후보키|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/42890?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|무지의 먹방 라이브|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/42891?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|길 찾기 게임|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/42892?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|매칭 점수|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/42893?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|블록 게임|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=9/learn/courses/30/lessons/42894?language=python3) |
+
+
+
+### 2017 서머코딩
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-2|2017 서머코딩|소수 만들기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12977?language=python3) |
+|level-2|2017 서머코딩|점프와 순간 이동|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12980?language=python3) |
+|level-3|2017 서머코딩|배달|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12978?language=python3) |
+|level-3|2017 서머코딩|기지국 설치|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12979?language=python3) |
+|level-4|2017 서머코딩|스티커 모으기(2)|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12971?language=python3) |
+
+
+
+### 2017 팁스타운
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-2|2017 팁스타운|짝지어 제거하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=7/learn/courses/30/lessons/12973?language=python3) |
+|level-2|2017 팁스타운|예상 대진표|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12985?language=python3) |
+|level-4|2017 팁스타운|단어 퍼즐|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12983?language=python3) |
+
+
+
+### 2018 서머코딩
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-1|2018 서머코딩|예산|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12982?language=python3) |
+|level-2|2018 서머코딩|영어 끝말잇기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12981?language=python3) |
+|level-3|2018 서머코딩|숫자 게임|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12987?language=python3) |
+|level-4|2018 서머코딩|지형 편집|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=8/learn/courses/30/lessons/12984?language=python3) |
+
+
+
+### 2018 윈터코딩
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-2|2018 윈터코딩|스킬트리|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=1/learn/courses/30/lessons/49993?language=python3) |
+|level-3|2018 윈터코딩|방문 길이|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/49994?language=python3) |
+|level-4|2018 윈터코딩|쿠키 구입|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=6/learn/courses/30/lessons/49995?language=python3) |
+
+
+
+### 찾아라 프로그래밍 마에스터
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-2|찾아라 프로그래밍 마에스터|폰켓몬|"[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/1845?language=python3"") |"
+|level-4|찾아라 프로그래밍 마에스터|사칙연산|"[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/1843?language=python3"") |"
+|level-4|찾아라 프로그래밍 마에스터|게임 맵 최단거리|"[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges/&page=5/learn/courses/30/lessons/1844?language=python3"") |"
 
 
 
 
 
-
-
-
+다... 풀 수 있겠지..
 
 
 
