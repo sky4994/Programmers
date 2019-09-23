@@ -10,7 +10,7 @@
 ### 해시
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-1|해시|완주하지 못한 선수|[python3](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) |
+|level-1|해시|완주하지 못한 선수|[python3](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) |[python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98(%ED%95%B4%EC%8B%9C%2C%20level_1).ipynb)
 |level-2|해시|전화번호 목록|[python3](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) |
 |level-2|해시|위장|[python3](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) |
 |level-3|해시|베스트앨범|[python3](https://programmers.co.kr/learn/courses/30/lessons/42579?language=python3) |
