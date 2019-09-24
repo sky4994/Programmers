@@ -12,7 +12,7 @@
   - [정렬](#정렬)
   - [완전탐색](#완전탐색)
   - [탐욕법(Greedy)](#탐욕법(Greedy))
-  - [동적계획법(Dynamic Programming)](#동적계획법(Dynamic Programming))
+  - ['동적계획법(Dynamic Programming)'](#동적계획법(Dynamic Programming))
   - [깊이/너비 우선 탐색(DFS/BFS)](#깊이/너비 우선 탐색(DFS/BFS))
   - [이분탐색](#이분탐색)
   - [그래프](#그래프)
