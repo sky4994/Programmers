@@ -5,25 +5,27 @@
 
 [프로그래머스 레벨별 문제 정리 ](https://github.com/sky4994/Programmers/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C_level%EB%B3%84.csv)
 
-- 문제 유형
+- 유형별 문제
   - [해시](#해시)
-  - [스택/큐](#스택/큐)
-  - [힙(Heep)](#힙(Heep))
+  - [스택/큐](#스택_큐)
+  - [힙(Heep)](#힙)
   - [정렬](#정렬)
   - [완전탐색](#완전탐색)
-  - [탐욕법(Greedy)](#탐욕법(Greedy))
-  - [동적계획법](#동적계획법(Dynamic Programming))
-  - [깊이/너비 우선 탐색](#깊이/너비 우선 탐색(DFS/BFS))
+  - [탐욕법(Greedy)](#탐욕법)
+  - [동적계획법](#동적계획법)
+  - [깊이/너비 우선 탐색](#깊이_너비_우선_탐색)
   - [이분탐색](#이분탐색)
   - [그래프](#그래프)
   - [연습문제](#연습문제)
-  - [2017 KAKAO](#(2017년)KAKAO BLIND RECRUITMENT)
-  - [2018 KAKAO](#(2018년)KAKAO BLIND RECRUITMENT)
-  - [2017 서머코딩](#2017 서머코딩)
-  - [2017 팁스타운](#2017 팁스타운)
-  - [2018 서머코딩](#2018 서머코딩)
-  - [2018 윈터코딩](#2018 코딩)
-  - [찾아라 프로그래밍 마에스터](#찾아라 프로그래밍 마에스터)
+
+- 실제 기업문제
+  - [2017 KAKAO](#2017_kakao)
+  - [2018 KAKAO](#2018_kakao)
+  - [2017 서머코딩](#2017_서머코딩)
+  - [2017 팁스타운](#2017_팁스타운)
+  - [2018 서머코딩](#2018_서머코딩)
+  - [2018 윈터코딩](#2018_윈터코딩)
+  - [찾아라 프로그래밍 마에스터](#찾아라_프로그래밍_마에스터)
 
 
 
@@ -38,7 +40,7 @@
 |level-3|해시|베스트앨범|[python3](https://programmers.co.kr/learn/courses/30/lessons/42579?language=python3) |
 
 
-### 스택/큐
+### 스택_큐
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-2|스택_큐|탑|[python3](https://programmers.co.kr/learn/courses/30/lessons/42588?language=python3) |
@@ -50,7 +52,7 @@
 
 
 
-### 힙(Heep)
+### 힙
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-2|힙(Heap)|더 맵게|[python3](https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3) |
@@ -80,7 +82,7 @@
 
 
 
-### 탐욕법(Greedy)
+### 탐욕법
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-1|탐욕법(Greedy)|체육복|[python3](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3) |
@@ -94,7 +96,7 @@
 
 
 
-### 동적계획법(Dynamic Programming)
+### 동적계획법
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-3|동적계획법(Dynamic Programming)|N으로 표현|[python3](https://programmers.co.kr/learn/courses/30/lessons/42895?language=python3) |
@@ -108,7 +110,7 @@
 
 
 
-### 깊이/너비 우선 탐색(DFS/BFS)
+### 깊이_너비_우선_탐색
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-2|깊이_너비 우선 탐색(DFS_BFS)|타겟 넘버|[python3](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3) |
@@ -206,7 +208,7 @@
 문제 모음
 ------------------------------------------------------------------------------------
 
-### (2017년)KAKAO BLIND RECRUITMENT
+### 2017_kakao
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 추석 트래픽|[python3](https://programmers.co.kr/learn/courses/30/lessons/17676?language=python3) |
@@ -225,7 +227,7 @@
 
 
 
-### (2018년)KAKAO BLIND RECRUITMENT
+### 2018_kakao
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-5|(2018년)KAKAO BLIND RECRUITMENT|오픈채팅방|[python3](https://programmers.co.kr/learn/courses/30/lessons/42888?language=python3) |
@@ -238,7 +240,7 @@
 
 
 
-### 2017 서머코딩
+### 2017_서머코딩
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-2|2017 서머코딩|소수 만들기|[python3](https://programmers.co.kr/learn/courses/30/lessons/12977?language=python3) |
@@ -249,7 +251,7 @@
 
 
 
-### 2017 팁스타운
+### 2017_팁스타운
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-2|2017 팁스타운|짝지어 제거하기|[python3](https://programmers.co.kr/learn/courses/30/lessons/12973?language=python3) |
@@ -258,7 +260,7 @@
 
 
 
-### 2018 서머코딩
+### 2018_서머코딩
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-1|2018 서머코딩|예산|[python3](https://programmers.co.kr/learn/courses/30/lessons/12982?language=python3) |
@@ -268,7 +270,7 @@
 
 
 
-### 2018 윈터코딩
+### 2018_윈터코딩
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-2|2018 윈터코딩|스킬트리|[python3](https://programmers.co.kr/learn/courses/30/lessons/49993?language=python3) |
@@ -277,7 +279,7 @@
 
 
 
-### 찾아라 프로그래밍 마에스터
+### 찾아라_프로그래밍_마에스터
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-2|찾아라 프로그래밍 마에스터|폰켓몬|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3"") |"
