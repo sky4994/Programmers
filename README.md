@@ -5,6 +5,28 @@
 
 [프로그래머스 레벨별 문제 정리 ](https://github.com/sky4994/Programmers/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C_level%EB%B3%84.csv)
 
+- 문제 유형
+  - [해시](#해시)
+  - [스택/큐](#스택/큐)
+  - [힙(Heep)](#힙(Heep))
+  - [정렬](#정렬)
+  - [완전탐색](#완전탐색)
+  - [탐욕법(Greedy)](#탐욕법(Greedy))
+  - [동적계획법(Dynamic Programming)](#동적계획법(Dynamic Programming))
+  - [깊이/너비 우선 탐색(DFS/BFS)](#깊이/너비 우선 탐색(DFS/BFS))
+  - [이분탐색](#이분탐색)
+  - [그래프](#그래프)
+  - [연습문제](#연습문제)
+  - [(2017년)KAKAO BLIND RECRUITMENT](#(2017년)KAKAO BLIND RECRUITMENT)
+  - [(2018년)KAKAO BLIND RECRUITMENT](#(2018년)KAKAO BLIND RECRUITMENT)
+  - [2017 서머코딩](#2017 서머코딩)
+  - [2017 팁스타운](#2017 팁스타운)
+  - [2018 서머코딩](#2018 서머코딩)
+  - [2018 윈터코딩](#2018 코딩)
+  - [찾아라 프로그래밍 마에스터](#찾아라 프로그래밍 마에스터)
+
+
+
 
 
 ### 해시
