@@ -65,7 +65,7 @@
 ### 정렬
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-1|정렬|K번째수|[python3](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) |
+|level-1|정렬|K번째수|[python3](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | [python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/K%EB%B2%88%EC%A7%B8%EC%88%98%20(9.25%2C%20%EC%A0%95%EB%A0%AC%2C%20Level_1).ipynb)|
 |level-2|정렬|가장 큰 수|[python3](https://programmers.co.kr/learn/courses/30/lessons/42746?language=python3) |
 |level-2|정렬|H-Index|[python3](https://programmers.co.kr/learn/courses/30/lessons/42747?language=python3) |
 
