@@ -75,7 +75,7 @@
 ### 완전탐색
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-1|완전탐색|모의고사|[python3](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) |
+|level-1|완전탐색|모의고사|[python3](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) |[python3](https://github.com/sky4994/Programmers/blob/master/내가%20풀어본%20답안/모의고사%20(9.26%2C%20완전탐색%2C%20Level_1).ipynb)
 |level-2|완전탐색|숫자 야구|[python3](https://programmers.co.kr/learn/courses/30/lessons/42841?language=python3) |
 |level-2|완전탐색|카펫|[python3](https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3) |
 
