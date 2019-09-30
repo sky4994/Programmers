@@ -145,7 +145,7 @@
 ### 연습문제
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-1|연습문제|2016년|[python3](https://programmers.co.kr/learn/courses/30/lessons/12901?language=python3) |
+|level-1|연습문제|2016년|[python3](https://programmers.co.kr/learn/courses/30/lessons/12901?language=python3) |[python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/2016%EB%85%84%20(9.30%2C%20%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2C%20Level_1).ipynb)|
 |level-1|연습문제|가운데 글자 가져오기|[python3](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) |
 |level-1|연습문제|같은 숫자는 싫어|[python3](https://programmers.co.kr/learn/courses/30/lessons/12906?language=python3) |
 |level-1|연습문제|나누어 떨어지는 숫자 배열|[python3](https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3) |
