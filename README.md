@@ -260,7 +260,7 @@
 
 
 
-### 2018-kakao-blind-recruitment
+### 2018 kakao blind recruitment
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 추석 트래픽|[python3](https://programmers.co.kr/learn/courses/30/lessons/17676?language=python3) |
@@ -279,7 +279,7 @@
 
 
 
-### 2019-kakao-blind-recruitment
+### 2019 kakao blind recruitment
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-5|(2018년)KAKAO BLIND RECRUITMENT|오픈채팅방|[python3](https://programmers.co.kr/learn/courses/30/lessons/42888?language=python3) |
