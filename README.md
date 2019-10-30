@@ -118,7 +118,7 @@
 |level-2|깊이_너비 우선 탐색(DFS_BFS)|타겟 넘버|[python3](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3) |
 |level-3|깊이_너비 우선 탐색(DFS_BFS)|네트워크|[python3](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3) |
 |level-3|깊이_너비 우선 탐색(DFS_BFS)|여행경로|[python3](https://programmers.co.kr/learn/courses/30/lessons/43164?language=python3) |
-|level-3|깊이_너비 우선 탐색(DFS_BFS)|단어 변환|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=3/learn/courses/30/lessons/43163?language=python3) |
+|level-3|깊이_너비 우선 탐색(DFS_BFS)|단어 변환|[python3](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3) |
 
 (스크롤링한 날짜 기준: 10.30 추가된 문제-> 단어변환)
 
@@ -295,13 +295,13 @@
 ### 2020 kakao blind recruitment
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-1|2020 KAKAO BLIND RECRUITMENT|문자열 압축|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=1/learn/courses/30/lessons/60057?language=python3) |
-|level-2|2020 KAKAO BLIND RECRUITMENT|괄호 변환|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=2/learn/courses/30/lessons/60058?language=python3) |
-|level-3|2020 KAKAO BLIND RECRUITMENT|자물쇠와 열쇠|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=2/learn/courses/30/lessons/60059?language=python3) |
-|level-3|2020 KAKAO BLIND RECRUITMENT|기둥과 보 설치|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=4/learn/courses/30/lessons/60061?language=python3) |
-|level-3|2020 KAKAO BLIND RECRUITMENT|외벽 점검|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=4/learn/courses/30/lessons/60062?language=python3) |
-|level-3|2020 KAKAO BLIND RECRUITMENT|블록 이동하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=4/learn/courses/30/lessons/60063?language=python3) |
-|level-4|2020 KAKAO BLIND RECRUITMENT|가사 검색|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=3/learn/courses/30/lessons/60060?language=python3) |
+|level-1|2020 KAKAO BLIND RECRUITMENT|문자열 압축|[python3](https://programmers.co.kr/learn/courses/30/lessons/60057?language=python3) |
+|level-2|2020 KAKAO BLIND RECRUITMENT|괄호 변환|[python3](https://programmers.co.kr/learn/courses/30/lessons/60058?language=python3) |
+|level-3|2020 KAKAO BLIND RECRUITMENT|자물쇠와 열쇠|[python3](https://programmers.co.kr/learn/courses/30/lessons/60059?language=python3) |
+|level-3|2020 KAKAO BLIND RECRUITMENT|기둥과 보 설치|[python3](https://programmers.co.kr/learn/courses/30/lessons/60061?language=python3) |
+|level-3|2020 KAKAO BLIND RECRUITMENT|외벽 점검|[python3](https://programmers.co.kr/learn/courses/30/lessons/60062?language=python3) |
+|level-3|2020 KAKAO BLIND RECRUITMENT|블록 이동하기|[python3](https://programmers.co.kr/learn/courses/30/lessons/60063?language=python3) |
+|level-4|2020 KAKAO BLIND RECRUITMENT|가사 검색|[python3](https://programmers.co.kr/learn/courses/30/lessons/60060?language=python3) |
 
 (스크롤링한 날짜 기준: 10.30 추가된 문제 -> 2020-kakao-blind-recruitment)
 
