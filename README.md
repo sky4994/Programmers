@@ -117,9 +117,8 @@
 |level-2|깊이_너비 우선 탐색(DFS_BFS)|타겟 넘버|[python3](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3) |
 |level-3|깊이_너비 우선 탐색(DFS_BFS)|네트워크|[python3](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3) |
 |level-3|깊이_너비 우선 탐색(DFS_BFS)|여행경로|[python3](https://programmers.co.kr/learn/courses/30/lessons/43164?language=python3) |
-(스크롤링한 날짜 기준: 10.30 추가된 문제)
 |level-3|깊이_너비 우선 탐색(DFS_BFS)|단어 변환|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=3/learn/courses/30/lessons/43163?language=python3) |
-
+(스크롤링한 날짜 기준: 10.30 추가된 문제-> 단어변환)
 
 
 ### 이분탐색
@@ -290,8 +289,8 @@
 |level-5|(2018년)KAKAO BLIND RECRUITMENT|블록 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/42894?language=python3) |
 
 
-### 2020-kakao-blind-recruitment
 (스크롤링한 날짜 기준: 10.30 추가된 문제)
+### 2020-kakao-blind-recruitment
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-1|2020 KAKAO BLIND RECRUITMENT|문자열 압축|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=1/learn/courses/30/lessons/60057?language=python3) |
