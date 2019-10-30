@@ -292,7 +292,7 @@
 
 
 
-### 2020-kakao-blind-recruitment
+### 2020 kakao blind recruitment
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
 |level-1|2020 KAKAO BLIND RECRUITMENT|문자열 압축|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=1/learn/courses/30/lessons/60057?language=python3) |
