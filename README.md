@@ -19,13 +19,14 @@
   - [연습문제](#연습문제)
 
 - 실제 기업문제
-  - [2017 KAKAO](#2017_kakao)
-  - [2018 KAKAO](#2018_kakao)
   - [2017 서머코딩](#2017_서머코딩)
   - [2017 팁스타운](#2017_팁스타운)
   - [2018 서머코딩](#2018_서머코딩)
   - [2018 윈터코딩](#2018_윈터코딩)
   - [찾아라 프로그래밍 마에스터](#찾아라_프로그래밍_마에스터)
+  - [2018 KAKAO](#2018-kakao-blind-recruitment)
+  - [2019 KAKAO](#2019-kakao-blind-recruitment)
+  - [2020 KAKAO](#2020-kakao-blind-recruitment)
 
 
 
@@ -116,6 +117,8 @@
 |level-2|깊이_너비 우선 탐색(DFS_BFS)|타겟 넘버|[python3](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3) |
 |level-3|깊이_너비 우선 탐색(DFS_BFS)|네트워크|[python3](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3) |
 |level-3|깊이_너비 우선 탐색(DFS_BFS)|여행경로|[python3](https://programmers.co.kr/learn/courses/30/lessons/43164?language=python3) |
+(스크롤링한 날짜 기준: 10.30 추가된 문제)
+|level-3|깊이_너비 우선 탐색(DFS_BFS)|단어 변환|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=3/learn/courses/30/lessons/43163?language=python3) |
 
 
 
@@ -208,38 +211,6 @@
 문제 모음
 ------------------------------------------------------------------------------------
 
-### 2017_kakao
-|Level|level_type|title|Link|answer|
-| ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 추석 트래픽|[python3](https://programmers.co.kr/learn/courses/30/lessons/17676?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 뉴스 클러스터링|[python3](https://programmers.co.kr/learn/courses/30/lessons/17677?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 셔틀버스|[python3](https://programmers.co.kr/learn/courses/30/lessons/17678?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 프렌즈4블록|[python3](https://programmers.co.kr/learn/courses/30/lessons/17679?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 캐시|[python3](https://programmers.co.kr/learn/courses/30/lessons/17680?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 비밀지도|[python3](https://programmers.co.kr/learn/courses/30/lessons/17681?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 다트 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/17682?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 방금그곡|[python3](https://programmers.co.kr/learn/courses/30/lessons/17683?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 압축|[python3](https://programmers.co.kr/learn/courses/30/lessons/17684?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 자동완성|[python3](https://programmers.co.kr/learn/courses/30/lessons/17685?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 파일명 정렬|[python3](https://programmers.co.kr/learn/courses/30/lessons/17686?language=python3) |
-|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] n진수 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/17687?language=python3) |
-
-
-
-
-### 2018_kakao
-|Level|level_type|title|Link|answer|
-| ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-5|(2018년)KAKAO BLIND RECRUITMENT|오픈채팅방|[python3](https://programmers.co.kr/learn/courses/30/lessons/42888?language=python3) |
-|level-5|(2018년)KAKAO BLIND RECRUITMENT|실패율|[python3](https://programmers.co.kr/learn/courses/30/lessons/42889?language=python3) |
-|level-5|(2018년)KAKAO BLIND RECRUITMENT|후보키|[python3](https://programmers.co.kr/learn/courses/30/lessons/42890?language=python3) |
-|level-5|(2018년)KAKAO BLIND RECRUITMENT|무지의 먹방 라이브|[python3](https://programmers.co.kr/learn/courses/30/lessons/42891?language=python3) |
-|level-5|(2018년)KAKAO BLIND RECRUITMENT|길 찾기 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/42892?language=python3) |
-|level-5|(2018년)KAKAO BLIND RECRUITMENT|매칭 점수|[python3](https://programmers.co.kr/learn/courses/30/lessons/42893?language=python3) |
-|level-5|(2018년)KAKAO BLIND RECRUITMENT|블록 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/42894?language=python3) |
-
-
-
 ### 2017_서머코딩
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
@@ -285,6 +256,52 @@
 |level-2|찾아라 프로그래밍 마에스터|폰켓몬|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3"") |"
 |level-4|찾아라 프로그래밍 마에스터|사칙연산|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1843?language=python3"") |"
 |level-4|찾아라 프로그래밍 마에스터|게임 맵 최단거리|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3"") |"
+
+
+
+### 2018-kakao-blind-recruitment
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 추석 트래픽|[python3](https://programmers.co.kr/learn/courses/30/lessons/17676?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 뉴스 클러스터링|[python3](https://programmers.co.kr/learn/courses/30/lessons/17677?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 셔틀버스|[python3](https://programmers.co.kr/learn/courses/30/lessons/17678?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 프렌즈4블록|[python3](https://programmers.co.kr/learn/courses/30/lessons/17679?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 캐시|[python3](https://programmers.co.kr/learn/courses/30/lessons/17680?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 비밀지도|[python3](https://programmers.co.kr/learn/courses/30/lessons/17681?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[1차] 다트 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/17682?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 방금그곡|[python3](https://programmers.co.kr/learn/courses/30/lessons/17683?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 압축|[python3](https://programmers.co.kr/learn/courses/30/lessons/17684?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 자동완성|[python3](https://programmers.co.kr/learn/courses/30/lessons/17685?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] 파일명 정렬|[python3](https://programmers.co.kr/learn/courses/30/lessons/17686?language=python3) |
+|level-5|(2017년)KAKAO BLIND RECRUITMENT|[3차] n진수 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/17687?language=python3) |
+
+
+
+
+### 2019-kakao-blind-recruitment
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|오픈채팅방|[python3](https://programmers.co.kr/learn/courses/30/lessons/42888?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|실패율|[python3](https://programmers.co.kr/learn/courses/30/lessons/42889?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|후보키|[python3](https://programmers.co.kr/learn/courses/30/lessons/42890?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|무지의 먹방 라이브|[python3](https://programmers.co.kr/learn/courses/30/lessons/42891?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|길 찾기 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/42892?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|매칭 점수|[python3](https://programmers.co.kr/learn/courses/30/lessons/42893?language=python3) |
+|level-5|(2018년)KAKAO BLIND RECRUITMENT|블록 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/42894?language=python3) |
+
+
+### 2020-kakao-blind-recruitment
+(스크롤링한 날짜 기준: 10.30 추가된 문제)
+|Level|level_type|title|Link|answer|
+| ------------- |:-------------:| -----:|:-------------:|:-------------:|
+|level-1|2020 KAKAO BLIND RECRUITMENT|문자열 압축|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=1/learn/courses/30/lessons/60057?language=python3) |
+|level-2|2020 KAKAO BLIND RECRUITMENT|괄호 변환|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=2/learn/courses/30/lessons/60058?language=python3) |
+|level-3|2020 KAKAO BLIND RECRUITMENT|자물쇠와 열쇠|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=2/learn/courses/30/lessons/60059?language=python3) |
+|level-3|2020 KAKAO BLIND RECRUITMENT|기둥과 보 설치|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=4/learn/courses/30/lessons/60061?language=python3) |
+|level-3|2020 KAKAO BLIND RECRUITMENT|외벽 점검|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=4/learn/courses/30/lessons/60062?language=python3) |
+|level-3|2020 KAKAO BLIND RECRUITMENT|블록 이동하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=4/learn/courses/30/lessons/60063?language=python3) |
+|level-4|2020 KAKAO BLIND RECRUITMENT|가사 검색|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=3/learn/courses/30/lessons/60060?language=python3) |
+
 
 
 
