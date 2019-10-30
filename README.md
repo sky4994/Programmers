@@ -2,8 +2,9 @@
 
 [프로그래머스 링크](https://programmers.co.kr/learn/challenges?tab=all_challenges/)
 
-
 [프로그래머스 레벨별 문제 정리 ](https://github.com/sky4994/Programmers/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C_level%EB%B3%84.csv)
+
+[2019.10.30 추가된 문제 정리](https://github.com/sky4994/Programmers/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%B6%94%EA%B0%80%EB%90%9C%20%EB%AC%B8%EC%A0%9C.csv)
 
 - 유형별 문제
   - [해시](#해시)
@@ -290,7 +291,7 @@
 |level-5|(2018년)KAKAO BLIND RECRUITMENT|블록 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/42894?language=python3) |
 
 
-(스크롤링한 날짜 기준: 10.30 추가된 문제)
+
 ### 2020-kakao-blind-recruitment
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
@@ -302,7 +303,7 @@
 |level-3|2020 KAKAO BLIND RECRUITMENT|블록 이동하기|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=4/learn/courses/30/lessons/60063?language=python3) |
 |level-4|2020 KAKAO BLIND RECRUITMENT|가사 검색|[python3](https://programmers.co.kr/learn/challenges?tab=all_challenges;filter_lessons?&page=3/learn/courses/30/lessons/60060?language=python3) |
 
-
+(스크롤링한 날짜 기준: 10.30 추가된 문제 -> 2020-kakao-blind-recruitment)
 
 
 
