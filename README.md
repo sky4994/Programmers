@@ -169,7 +169,7 @@
 |level-1|연습문제|자연수 뒤집어 배열로 만들기|[python3](https://programmers.co.kr/learn/courses/30/lessons/12932?language=python3) |[python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(10.30,%20%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C,%20Level_1).ipynb)  |
 |level-1|연습문제|정수 내림차순으로 배치하기|[python3](https://programmers.co.kr/learn/courses/30/lessons/12933?language=python3) |[python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0%20(11.01%2C%20%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%2C%20Level_1).ipynb)|
 |level-1|연습문제|정수 제곱근 판별|[python3](https://programmers.co.kr/learn/courses/30/lessons/12934?language=python3) | [python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84%20(11.04,%20%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C,%20Level_1).ipynb) |
-|level-1|연습문제|제일 작은 수 제거하기|[python3](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) |
+|level-1|연습문제|제일 작은 수 제거하기|[python3](https://programmers.co.kr/learn/courses/30/lessons/12935?language=python3) | [python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0%20(11.05,%20%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C,%20Level_1).ipynb)  |
 |level-1|연습문제|짝수와 홀수|[python3](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3) |
 |level-1|연습문제|최대공약수와 최소공배수|[python3](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) |
 |level-1|연습문제|콜라츠 추측|[python3](https://programmers.co.kr/learn/courses/30/lessons/12943?language=python3) |
@@ -254,9 +254,9 @@
 ### 찾아라_프로그래밍_마에스터
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-2|찾아라 프로그래밍 마에스터|폰켓몬|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3"") |"
-|level-4|찾아라 프로그래밍 마에스터|사칙연산|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1843?language=python3"") |"
-|level-4|찾아라 프로그래밍 마에스터|게임 맵 최단거리|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3"") |"
+|level-2|찾아라 프로그래밍 마에스터|폰켓몬|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |
+|level-4|찾아라 프로그래밍 마에스터|사칙연산|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1843?language=python3) |
+|level-4|찾아라 프로그래밍 마에스터|게임 맵 최단거리|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3)|
 
 
 
