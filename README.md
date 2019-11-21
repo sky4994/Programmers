@@ -41,7 +41,7 @@
 |level-2|해시|위장|[python3](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) |
 |level-3|해시|베스트앨범|[python3](https://programmers.co.kr/learn/courses/30/lessons/42579?language=python3) |
 
-[맨위로](#프로그래머스 문제(python3만))
+- [맨위로](#프로그래머스 문제(python3만))
 
 ### 스택_큐
 |Level|level_type|title|Link|answer|
