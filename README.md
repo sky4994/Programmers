@@ -41,6 +41,7 @@
 |level-2|해시|위장|[python3](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) |
 |level-3|해시|베스트앨범|[python3](https://programmers.co.kr/learn/courses/30/lessons/42579?language=python3) |
 
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 스택_큐
 |Level|level_type|title|Link|answer|
@@ -52,7 +53,7 @@
 |level-2|스택_큐|쇠막대기|[python3](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) |
 |level-2|스택_큐|주식가격|[python3](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 힙
 |Level|level_type|title|Link|answer|
@@ -62,7 +63,7 @@
 |level-3|힙(Heap)|디스크 컨트롤러|[python3](https://programmers.co.kr/learn/courses/30/lessons/42627?language=python3) |
 |level-3|힙(Heap)|이중우선순위큐|[python3](https://programmers.co.kr/learn/courses/30/lessons/42628?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 정렬
 |Level|level_type|title|Link|answer|
@@ -71,7 +72,7 @@
 |level-2|정렬|가장 큰 수|[python3](https://programmers.co.kr/learn/courses/30/lessons/42746?language=python3) |
 |level-2|정렬|H-Index|[python3](https://programmers.co.kr/learn/courses/30/lessons/42747?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 
 ### 완전탐색
@@ -81,7 +82,7 @@
 |level-2|완전탐색|숫자 야구|[python3](https://programmers.co.kr/learn/courses/30/lessons/42841?language=python3) |
 |level-2|완전탐색|카펫|[python3](https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 
 ### 탐욕법
@@ -96,7 +97,7 @@
 |level-3|탐욕법(Greedy)|단속카메라|[python3](https://programmers.co.kr/learn/courses/30/lessons/42884?language=python3) |
 |level-3|탐욕법(Greedy)|저울|[python3](https://programmers.co.kr/learn/courses/30/lessons/42886?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 동적계획법
 |Level|level_type|title|Link|answer|
@@ -110,7 +111,7 @@
 |level-4|동적계획법(Dynamic Programming)|도둑질|[python3](https://programmers.co.kr/learn/courses/30/lessons/42897?language=python3) |
 |level-4|동적계획법(Dynamic Programming)|서울에서 경산까지|[python3](https://programmers.co.kr/learn/courses/30/lessons/42899?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 깊이_너비_우선_탐색
 |Level|level_type|title|Link|answer|
@@ -122,6 +123,7 @@
 
 (스크롤링한 날짜 기준: 10.30 추가된 문제-> 단어변환)
 
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 이분탐색
 |Level|level_type|title|Link|answer|
@@ -130,7 +132,7 @@
 |level-3|이분탐색|입국심사|[python3](https://programmers.co.kr/learn/courses/30/lessons/43238?language=python3) |
 |level-4|이분탐색|징검다리|[python3](https://programmers.co.kr/learn/courses/30/lessons/43236?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 
 ### 그래프
@@ -140,7 +142,7 @@
 |level-3|그래프|순위|[python3](https://programmers.co.kr/learn/courses/30/lessons/49191?language=python3) |
 |level-5|그래프|방의 개수|[python3](https://programmers.co.kr/learn/courses/30/lessons/49190?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ------------------------------------------------------------------------------------
 다른 연습문제
@@ -221,7 +223,7 @@
 |level-3|2017 서머코딩|기지국 설치|[python3](https://programmers.co.kr/learn/courses/30/lessons/12979?language=python3) |
 |level-4|2017 서머코딩|스티커 모으기(2)|[python3](https://programmers.co.kr/learn/courses/30/lessons/12971?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 2017_팁스타운
 |Level|level_type|title|Link|answer|
@@ -230,7 +232,7 @@
 |level-2|2017 팁스타운|예상 대진표|[python3](https://programmers.co.kr/learn/courses/30/lessons/12985?language=python3) |
 |level-4|2017 팁스타운|단어 퍼즐|[python3](https://programmers.co.kr/learn/courses/30/lessons/12983?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 2018_서머코딩
 |Level|level_type|title|Link|answer|
@@ -240,7 +242,7 @@
 |level-3|2018 서머코딩|숫자 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/12987?language=python3) |
 |level-4|2018 서머코딩|지형 편집|[python3](https://programmers.co.kr/learn/courses/30/lessons/12984?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 2018_윈터코딩
 |Level|level_type|title|Link|answer|
@@ -249,7 +251,7 @@
 |level-3|2018 윈터코딩|방문 길이|[python3](https://programmers.co.kr/learn/courses/30/lessons/49994?language=python3) |
 |level-4|2018 윈터코딩|쿠키 구입|[python3](https://programmers.co.kr/learn/courses/30/lessons/49995?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 찾아라_프로그래밍_마에스터
 |Level|level_type|title|Link|answer|
@@ -258,7 +260,7 @@
 |level-4|찾아라 프로그래밍 마에스터|사칙연산|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1843?language=python3) |
 |level-4|찾아라 프로그래밍 마에스터|게임 맵 최단거리|"[python3](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3)|
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 2018 kakao blind recruitment
 |Level|level_type|title|Link|answer|
@@ -277,7 +279,7 @@
 |level-5|(2018년)KAKAO BLIND RECRUITMENT|[3차] n진수 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/17687?language=python3) |
 
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 2019 kakao blind recruitment
 |Level|level_type|title|Link|answer|
@@ -290,7 +292,7 @@
 |level-5|(2019년)KAKAO BLIND RECRUITMENT|매칭 점수|[python3](https://programmers.co.kr/learn/courses/30/lessons/42893?language=python3) |
 |level-5|(2019년)KAKAO BLIND RECRUITMENT|블록 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/42894?language=python3) |
 
-
+[맨위로](#프로그래머스 문제(python3만))
 
 ### 2020 kakao blind recruitment
 |Level|level_type|title|Link|answer|
