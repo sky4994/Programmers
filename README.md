@@ -235,7 +235,7 @@
 ### 2018_서머코딩
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-1|2018 서머코딩|예산|[python3](https://programmers.co.kr/learn/courses/30/lessons/12982?language=python3) |
+|level-1|2018 서머코딩|예산|[python3](https://programmers.co.kr/learn/courses/30/lessons/12982?language=python3) | [python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/%EC%98%88%EC%82%B0%20(11.21,%202018%20%EC%84%9C%EB%A8%B8%EC%BD%94%EB%94%A9,%20Level_1).ipynb) |
 |level-2|2018 서머코딩|영어 끝말잇기|[python3](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) |
 |level-3|2018 서머코딩|숫자 게임|[python3](https://programmers.co.kr/learn/courses/30/lessons/12987?language=python3) |
 |level-4|2018 서머코딩|지형 편집|[python3](https://programmers.co.kr/learn/courses/30/lessons/12984?language=python3) |
