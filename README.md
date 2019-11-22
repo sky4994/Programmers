@@ -306,7 +306,7 @@
 ### 2020 kakao blind recruitment
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-1|2020 KAKAO BLIND RECRUITMENT|문자열 압축|[python3](https://programmers.co.kr/learn/courses/30/lessons/60057?language=python3) |
+|level-1|2020 KAKAO BLIND RECRUITMENT|문자열 압축|[python3](https://programmers.co.kr/learn/courses/30/lessons/60057?language=python3) | [python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95%20(11.22,%202020%20kakao%20blind%20recruitment,%20Level_1).ipynb) |
 |level-2|2020 KAKAO BLIND RECRUITMENT|괄호 변환|[python3](https://programmers.co.kr/learn/courses/30/lessons/60058?language=python3) |
 |level-3|2020 KAKAO BLIND RECRUITMENT|자물쇠와 열쇠|[python3](https://programmers.co.kr/learn/courses/30/lessons/60059?language=python3) |
 |level-3|2020 KAKAO BLIND RECRUITMENT|기둥과 보 설치|[python3](https://programmers.co.kr/learn/courses/30/lessons/60061?language=python3) |
@@ -319,9 +319,9 @@
 
 
 
-다... 풀 수 있겠지..
+~~다... 풀 수 있겠지..~~
 
-
+2019. 11. 22. - Level_1 끝!!!!! 이 기세로 쭉 가자!! ( Level_2부터는 난이도가 너무 올라가서 주기가 늦춰질수도...)
 
 
 
