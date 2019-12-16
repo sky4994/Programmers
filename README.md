@@ -91,7 +91,7 @@
 ### 탐욕법
 |Level|level_type|title|Link|answer|
 | ------------- |:-------------:| -----:|:-------------:|:-------------:|
-|level-1|탐욕법(Greedy)|체육복|[python3](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3) |
+|level-1|탐욕법(Greedy)|체육복|[python3](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3) | [python3](https://github.com/sky4994/Programmers/blob/master/%EB%82%B4%EA%B0%80%20%ED%92%80%EC%96%B4%EB%B3%B8%20%EB%8B%B5%EC%95%88/%EC%B2%B4%EC%9C%A1%EB%B3%B5%20(9.27%2C%20%ED%83%90%EC%9A%95%EB%B2%95(Greedy)%20Level_1).ipynb) |
 |level-2|탐욕법(Greedy)|조이스틱|[python3](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3) |
 |level-2|탐욕법(Greedy)|큰 수 만들기|[python3](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) |
 |level-2|탐욕법(Greedy)|조이스틱|[python3](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3) |
